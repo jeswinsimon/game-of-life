@@ -2,8 +2,9 @@
 
 RIP [James Conway](https://en.wikipedia.org/wiki/John_Horton_Conway).
 
-![Screenshot](/screenshot.png?raw=true "Optional Title")
 Try the demo at [https://jeswinsimon.github.io/game-of-life](https://jeswinsimon.github.io/game-of-life)
+
+![Screenshot](/screenshot.png?raw=true "Optional Title")
 
 ### What is the Game of Life ?
 
